@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.recharts-responsive-container{
+    height: 400px !important;
+}
+.recharts-wrapper > .recharts-surface{
+    padding: 20px;
+}

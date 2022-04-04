@@ -8,14 +8,13 @@ const ReviewSecHome = (props) => {
 
     const [reviews, setReviews] = useReviews();
     const slicedReview = reviews.slice(0, 3);
-    console.log(slicedReview);
     return (
         <div className='lg:py-10'>
             <div className="container">
                 <h2 className='font-bold text-4xl mb-5'>Customer Reviews (3)</h2>
                 <div className='grid lg:grid-cols-3 grid-cols-1 gap-5 py-10'>
                     {
-                        slicedReview.map(review =>
+                        slicedReview.map((review) => 
                             <ReviewCard key={review.id} review={review} ></ReviewCard>
                         )
                     }
