@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "stars": 5,
+      "review": "In my time with the 14-inch MacBook Pro and its M1 Pro chip, I didn't encounter a single instance of slowdown, even when editing photos with Lightroom and Photoshop CC, while also cutting video in Premiere CC when connected to a 4K HDR external monitor. In fact, the laptop's fans only turned on while exporting a 4K video file.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Sincere@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "stars": 3.5,
+      "review": "And yes, the display has a notch, which we know will be polarizing, but I very quickly stopped noticing it, just like everyone stops seeing the iPhone notch. We'll see how I feel after another few days with this thing.",
+      "image":"https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Shanna@melissa.tv"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "stars": 2,
+      "review": "After years of being a happy Apple customer, my latest experience has left me with a new perspective. Electric shocks from the mouse pad, sticky keys, the camera stopped working and less than average picture quality. When I contact Mac support they offer solutions that don't work but require me to close down the computer, which means when I restart I have to contact them again and go through the whole process. Probably 50 hours plus trying to remedy these issues.",
+      "image":"https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Nathan@yesenia.net"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "stars": 5,
+      "review": "The efficiency of the M1 chip's ARM design leads to great battery performance. The 14-inch MacBook Pro lasted 12 hours and 35 minutes in our benchmark, while the 16-inch went for 16 hours and 34 minutes. That’s over five hours longer than the last Intel model.",
+      "image":"https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Julianne.OConner@kory.org"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "stars": 5,
+      "review": "I like that Apple got rid of the Touch Bar screen up top, which I didn't really find useful on earlier MacBook Pro models, and instead replaced it with full-sized function keys that are easy to tap to adjust the volume, screen brightness and more.",
+      "image":"https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Lucio_Hettinger@annie.ca"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "stars": 4.5,
+      "review": "The MacBook Pro 14-inch (2021) is the best laptop for creative professionals you can buy right now. It offers amazing performance, even on battery, and comes with the best screen you’ll find on a laptop anywhere. For day-to-day use, this won’t be the laptop for you, but for video editors, programmers, music producers and photographers, you won’t get a better laptop.",
+      "image":"https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "email": "Karley_Dach@jasper.info"
+    }
+  ]
